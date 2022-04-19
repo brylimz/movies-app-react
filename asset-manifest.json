@@ -1,16 +1,14 @@
 {
   "files": {
-    "main.css": "/movies-app-react/static/css/main.073c9b0a.css",
-    "main.js": "/movies-app-react/static/js/main.639fbd80.js",
-    "static/js/787.5fd7f1f5.chunk.js": "/movies-app-react/static/js/787.5fd7f1f5.chunk.js",
-    "static/media/logo.svg": "/movies-app-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/movies-app-react/static/css/main.58e1373c.css",
+    "main.js": "/movies-app-react/static/js/main.778cf3fd.js",
     "index.html": "/movies-app-react/index.html",
-    "main.073c9b0a.css.map": "/movies-app-react/static/css/main.073c9b0a.css.map",
-    "main.639fbd80.js.map": "/movies-app-react/static/js/main.639fbd80.js.map",
-    "787.5fd7f1f5.chunk.js.map": "/movies-app-react/static/js/787.5fd7f1f5.chunk.js.map"
+    "static/media/search.svg": "/movies-app-react/static/media/search.db964b809d21320fb503cb05f4dc8a09.svg",
+    "main.58e1373c.css.map": "/movies-app-react/static/css/main.58e1373c.css.map",
+    "main.778cf3fd.js.map": "/movies-app-react/static/js/main.778cf3fd.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.639fbd80.js"
+    "static/css/main.58e1373c.css",
+    "static/js/main.778cf3fd.js"
   ]
 }
